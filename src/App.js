@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { Github, Linkedin, Mail, FileText, ChevronUp, GraduationCap, Award, Code, Folder, MessageCircle, Trophy, FolderOpen, ArrowDown, ChevronDown, Terminal } from 'lucide-react';
 
 // Use this URL for the resume link
-const RESUME_URL = "/Shalini_Resume.docx"; 
+const RESUME_URL = "https://machinelearni.github.io/portfolio/Shalini_Resume.docx";
 const PROFILE_PHOTO_URL = "/ShaliniPrasanna.jpeg";
 
 // The project data provided in your file
