@@ -56,12 +56,12 @@ const certifications = [
 const education = [
     {
     degree: "Master of Science in CyberSecurity",
-    university: "university of Alabama, Huntsville",
+    university: "University of Alabama, Huntsville",
     
   },
   {
     degree: "Master of Science in Computer Science",
-    university: "university of Nottingham, England",
+    university: "University of Nottingham, England",
     
   },
   {
